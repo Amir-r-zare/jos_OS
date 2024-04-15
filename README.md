@@ -1,4 +1,4 @@
-This project is the development of the Jas operating system, which is a course project under the
+This project is the development of the Jos operating system, which is a course project under the
 supervision of Dr. Javadi (member of the faculty of Tehran Polytechnic University), in which 5 of 
 its laboratories have been completed, and you can see the details of each parts in the link below.
 
